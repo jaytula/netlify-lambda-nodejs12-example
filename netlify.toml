@@ -1,0 +1,7 @@
+[build]
+
+publish = "public/"
+
+functions = "lambda-build"
+
+command = 'npm run build'
